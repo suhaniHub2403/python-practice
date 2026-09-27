@@ -1,0 +1,1 @@
+s=set()# is called empty set empty set hamesha aise banta hai na ki s=[]sahi tarika hai-> s = set ()
