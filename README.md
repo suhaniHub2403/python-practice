@@ -18,7 +18,7 @@ This repository is my personal space where I write, test, and document all the c
 - [x] **Chapter 1:** Modules, Comments & Pip
 - [x] **Chapter 2:** Variables & Data Types
 - [x] **Chapter 3:** Strings & String Functions
-- [ ] **Chapter 4:** Lists & Tuples
+- [x] **Chapter 4:** Lists & Tuples
 - [ ] **Chapter 5:** Dictionary & Sets
 - [ ] **Chapter 6:** Conditional Expressions
 - [ ] **Chapter 7:** Loops in Python
