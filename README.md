@@ -30,7 +30,6 @@ This repository is my personal space where I write, test, and document all the c
 - [ ] **End-of-Course Projects:** Mini Projects
 
 ---
----
 
 ## 💡 Key Takeaways & Consistency
 > "Consistency is what transforms average into excellence."
