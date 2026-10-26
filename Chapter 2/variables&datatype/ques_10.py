@@ -1,0 +1,11 @@
+a=24
+b=2.4
+c="suhani"
+d=True
+t=type(a)
+t1=type(b)
+t2=type(c)
+t3=type(d)
+print(t)
+print(t2)
+print(t3)

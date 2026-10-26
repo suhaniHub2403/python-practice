@@ -1,0 +1,10 @@
+a=10
+b=2
+sum=a+b
+sub=a-b
+multiplication=a*b
+divide=a/b
+print(sum)
+print(sub)
+print(multiplication)
+print(divide)

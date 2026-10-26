@@ -1,0 +1,12 @@
+a="10"
+b=20
+c=5.5
+A=int(a)
+t=type(A)
+t2=type(b)
+t3=type(c)
+total=A+b
+print(t)
+print(t2)
+print(t3)
+print(total)
