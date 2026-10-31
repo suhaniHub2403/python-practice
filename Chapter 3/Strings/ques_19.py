@@ -1,0 +1,8 @@
+text=input("Enter your sentence: ")
+vowels=("a","i","e","o","u")
+count=len(text)
+count2=text.count("a")
+print(count)
+print(count2)
+print(text.lower())
+print(text.startswith("python"))

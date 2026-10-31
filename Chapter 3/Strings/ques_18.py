@@ -1,0 +1,5 @@
+text=input("Enter your sentence: ")
+count=text.count(" ")
+print(count)
+print(text[::-1])
+print(text.replace(" ","-"))
